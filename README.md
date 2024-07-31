@@ -1,6 +1,6 @@
 ## Meu nome é Marcela Franco e utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 👋
 
-![https://tenor.com/pt-BR/search/oi-stickers]()
+![](https://tenor.com/pt-BR/search/oi-stickers)
 
 <!--
 **Mah-zzy/Mah-zzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
